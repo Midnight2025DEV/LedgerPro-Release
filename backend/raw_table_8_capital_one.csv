@@ -1,0 +1,10 @@
+col_0,col_1,col_2,col_3,credit,col_5
+,,,Interest Charge Calculation,,
+,,,Your Annual Percentage Rate (APR) is the annual interest rate on your account.,,
+Type of Balance,,Annual Percentage Rate (APR),Balance Subject to Interest Rate,,Interest Charged
+Purchases,,28.99 P,"$4,324.59",,$106.47
+Cash Advances,,28.99 P,$0.00,,$0.00
+"Variable APRs If you have a letter code displayed next to any of the above APRs, this means they are variable APRs. They may increase or decrease based on one of the following indices (reported in The Wall Street Journal) as described below.",,,,,
+,Code next to your APR(s),How do we calculate your APR(s),,,When your APR(s) will change
+,P L,Prime Rate  margin 3 month LIBOR  margin,,"The first day of the Billing Cycles that end in Jan., April, July and Oct.",
+,D F,Prime Rate  margin 1 month LIBOR  margin,,,The first day of each Billing Cycle
